@@ -43,3 +43,4 @@ input,select,textarea{border-radius:5px}
 .hero-visual{border:0}.cinematic-hero{background-color:var(--dark)}.service-card:nth-child(3){padding:26px 24px}.button.liquid-button:not(.light){color:#f4f0e6}.story-heading .button.light{color:#29251e}
 @media(min-width:641px) and (max-width:720px){.nav-wrap{height:92px}.nav-wrap nav{top:91px}.hero-grid{grid-template-columns:1fr}.hero-visual{max-width:550px;width:100%;margin:auto}.orbital-stage{height:430px}.hero-copy .lead{max-width:550px}}
 @media(max-width:640px){.service-card:nth-child(3){padding:28px}.nav-wrap nav{top:86px}.hero-visual{border-radius:0}}
+.button.liquid-button:not(.light){background:linear-gradient(135deg,#394237,#1f2a21);border-color:#71806c;color:#f4f0e6}.hero .button.liquid-button{background:linear-gradient(130deg,#ffffff20,#ffffff0a);border-color:#e6c99c70}.neo-icon .icon{transition:transform .4s}.service-card:hover .neo-icon .icon{transform:translateY(-2px) rotate(-5deg)}

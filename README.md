@@ -1,6 +1,6 @@
 # BridgePoint
 
-Responsive static ICT consulting website for bridgepoints.eu, with Home, Services, Enterprise, About, Contact, Privacy Notice, Website Terms, and a 404 page. Uses the supplied BridgePoint logo, local assets, and no runtime dependencies.
+Responsive static ICT consulting website for bridgepoints.io, with Home, Services, Enterprise, About, Contact, Privacy Notice, Website Terms, and a 404 page. Uses the supplied BridgePoint logo, local assets, and no runtime dependencies.
 
 ## Preview
 
@@ -8,7 +8,7 @@ Run `python -m http.server 8000` from this directory and open http://localhost:8
 
 ## GitHub Pages
 
-In repository Settings → Pages, select **Deploy from a branch**, **main**, and **/ (root)**. The included CNAME sets the custom domain to `bridgepoints.eu`. Configure DNS with your domain provider and enable **Enforce HTTPS** once GitHub verifies the domain and issues a certificate. Domain ownership and DNS are managed separately from this repository.
+In repository Settings → Pages, select **Deploy from a branch**, **main**, and **/ (root)**. The included CNAME sets the custom domain to `bridgepoints.io`. Configure DNS with your domain provider and enable **Enforce HTTPS** once GitHub verifies the domain and issues a certificate. Domain ownership and DNS are managed separately from this repository.
 
 ## Contact behaviour
 
